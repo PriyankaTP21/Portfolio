@@ -31,7 +31,7 @@ Aspiring Data Analyst and AI/ML Developer with hands-on experience in Python, da
 ### 1. Conversational Chatbot using Transformers (DialoGPT)
 <img src="https://img.icons8.com/fluency/24/000000/chatbot.png"/>
 Context-aware chatbot using DialoGPT.  
-**Repo:** (Add link)
+**Repo:** [GitHub Repository](https://github.com/PriyankaTP21/Conversation-AI-Chatbot-Transformers)
 
 ---
 
