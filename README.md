@@ -1,71 +1,80 @@
-# Hi, I'm Priyanka 👋  
+# Priyanka T P
 
-💻 **Aspiring Data Analyst | Python Enthusiast | AI & ML Learner**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 📊 Currently learning **Python, Data Science, and AI/ML**  
-- 🎯 Goal: Build a career in **AI/ML & Data Analytics**  
-- 📚 Background: Experience in teaching and project coordination  
-- 🌱 Fun fact: I enjoy making complex topics simple for others  
+Aspiring Data Analyst and AI/ML Developer with hands-on experience in Python, data analytics, machine learning, NLP, and computer vision.
 
 ---
 
-## 🛠️ Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib) ScikitLearn, Tensorflow, OpenCV, NLP, Transformers
-- **Databases:** SQL (basic)  
-- **Other Tools:** Powerpoint, Excel, GitHub, PowerBi, Tableau 
+## 🛠️ Technical Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Projects
-1. **[Python Basics Practice](https://github.com/yourusername/python-basics)**  
-   Beginner-friendly exercises with strings, lists, loops, and functions.  
 
-2. **[Telecom Data Analysis (Sample)](https://github.com/yourusername/telecom-analysis)**  
-   Simple exploratory data analysis on sample telecom datasets.  
-
----
-
-## 🎤 Seminars & Workshops Conducted
-
-- **Python Programming for Beginners**  
-  Covered variables, data types, control structures, functions, error handling, OOP concepts, and file handling.  
-
-- **Data Science Foundations**  
-  Topics: Pandas Series & DataFrames, data cleaning, manipulation, and visualization.  
-
-- **Feature Engineering & Encoding Techniques**  
-  Explained handling missing values, scaling, normalization, one-hot encoding, label encoding, and feature selection.  
-
-- **Machine Learning with Scikit-Learn**  
-  Covered supervised vs. unsupervised learning, model training, evaluation, and practical implementation in Python.  
-
-- **Regression Models**  
-  - Linear Regression  
-  - Multiple Linear Regression  
-  - Polynomial Regression  
-  - Decision Tree Regression  
-  - Random Forest Regression  
-
-- **Classification Models**  
-  - Logistic Regression  
-  - K-Nearest Neighbors (KNN)  
-  - Naive Bayes  
-  - Support Vector Machine (SVM)  
-
-- **Database Management Systems (DBMS)**  
-  Concepts of relational databases, SQL queries, normalization, and integration with Python.  
-
-- **Natural Language Processing (NLP)**  
-  Covered text preprocessing (tokenization, stemming, lemmatization, stopword removal), Bag of Words, TF-IDF, and sentiment analysis basics.  
+### 1. Conversational Chatbot using Transformers (DialoGPT)
+<img src="https://img.icons8.com/fluency/24/000000/chatbot.png"/>
+Context-aware chatbot using DialoGPT.  
+**Repo:** (Add link)
 
 ---
 
+### 2. Crop Recommendation System
+<img src="https://img.icons8.com/fluency/24/000000/plant-under-sun.png"/>
+ML-based crop suggestion model.  
+**Repo:** (Add link)
 
 ---
 
-## 📫 Connect With Me
-- 🌐 [LinkedIn](www.linkedin.com/in/priyanka-tp-1a749319)  
-- ✉️ Email: techo.priya2109@gmail.com
+### 3. AI Food Analyser
+<img src="https://img.icons8.com/fluency/24/000000/restaurant.png"/>
+CNN model for food identification.  
+**Repo:** (Add link)
+
+---
+
+### 4. AI Career Counsellor
+<img src="https://img.icons8.com/fluency/24/000000/consultation.png"/>
+NLP-powered career recommendation system.  
+**Repo:** (Add link)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+  <!-- Followers (works) -->
+  <img src="https://img.shields.io/github/followers/PriyankaTP21?style=for-the-badge&color=0A66C2" />
+
+  <!-- Stars (works) -->
+  <img src="https://img.shields.io/github/stars/PriyankaTP21?style=for-the-badge&color=yellow" />
+
+  <!-- Total Public Repos (works) -->
+  <img src="https://img.shields.io/badge/Public%20Repos-8-blue?style=for-the-badge" />
+
+  <!-- Profile Views (works AS LONG AS GitHub allows view counter) -->
+  <img src="https://komarev.com/ghpvc/?username=PriyankaTP21&style=for-the-badge&color=red" />
+
+</p>
+---
+
+## 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/priyanka-tp-1a749319  
+Email: techo.priya2109@gmail.com
