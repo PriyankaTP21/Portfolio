@@ -7,7 +7,19 @@
 ---
 
 ## 🚀 About Me
-Aspiring Data Analyst and AI/ML Developer with hands-on experience in Python, data analytics, machine learning, NLP, and computer vision.
+Highly motivated Data Analyst and emerging AI/ML Developer with hands-on experience in Python, data analytics, machine learning, deep learning, NLP, and computer vision. Passionate about solving real-world problems using data-driven and AI-powered solutions.
+
+---
+
+## 🎓 Certifications & Education
+
+<p align="left">
+  <!-- Certification Badge --> 
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20AI-ATEES%20Infomedia-blue?style=for-the-badge&logo=python&logoColor=white"/> 
+  <!-- Education Badges -->
+  <img src="https://img.shields.io/badge/MBA-Human%20Resources-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/B.E-Information%20Technology-228B22?style=for-the-badge&logo=graduation-cap&logoColor=white"/> 
+</p>
 
 ---
 
